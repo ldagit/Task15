@@ -1,0 +1,6 @@
+Test file
+Java for beginners
+Task 15
+Reading data from file
+
+Русский текст
